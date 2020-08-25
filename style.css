@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/4c/57/52/4c575204eade4a06aba5e6aaab155840.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:0.8;
+}
+
+.label{
+    font-size:18px;
+}
+ 
+ .form-control{
+    border-radius: 0px;
+    font-size: 18px;
+    padding: 10px;
+    } 
+
+  .bg{
+      border: 0px;
+      border:1px solid #e7e1e3;
+      border-radius: 10px;
+      padding:20px;
+      background-color:white;
+  }  
+
+  .text{
+    color:white;
+  }
+
+  .btn-primary{
+      background-color:rgb(255, 74, 120);
+      color:white;
+  }
+
+.nav-link{
+    color:white;
+}
+
+ul a:hover{
+    color:yellow;
+}
+
+.active{
+    color:yellow;
+}
+
+span{
+    color:red;
+    font-size:14px;
+
+}
